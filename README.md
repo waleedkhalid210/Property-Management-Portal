@@ -61,7 +61,7 @@ Make sure you have the following installed on your system:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Property-Management-Portal.git
+git clone https://github.com/waleedkhalid210/Property-Management-Portal.git
 cd "Property Management Portal"
 ```
 
