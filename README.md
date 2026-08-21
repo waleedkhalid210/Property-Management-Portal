@@ -62,7 +62,7 @@ Make sure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/waleedkhalid210/Property-Management-Portal.git
-cd "Property Management Portal"
+cd Property-Management-Portal
 ```
 
 ---
